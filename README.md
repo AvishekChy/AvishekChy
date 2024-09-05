@@ -7,10 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Something hot 🔥
 - 🌱 I’m currently learning kubernetes 🛞
-- 👯 I’m looking to collaborate on DevOps Open Source
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on DevOps Open Source Projects
+- 📫 How to reach me? just search by name on LinkedIn
+- ⚡ Fun fact: I'm a good listener 😉
 
